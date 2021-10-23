@@ -1,49 +1,34 @@
 ---
 title: Guanyu Liu
-role: Doc. of Atmospheric Sciences, Peking University
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Graduate of Atmospheric Physics and Chemistry, Peking University
+avatar_filename: mmexport1622870311756.jpg
+bio: My research interests include interactions between aerosols and climate and
+  prediction of aerosol emission.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interactions Between Aerosols and Climate
+  - Prediction of Aerosol Emission.
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Guanyu-Liu-4
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/guanyuliu0818
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor in Atmospheric Sciences
+      institution: Nanjing University
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Guanyu Liu is a graduate student of atmospheric physics and chemistry at the Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University. His research interests include interactions between aerosols and climate and the prediction of aerosol emission.  He is a Ph.D. student of Jing Li.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
