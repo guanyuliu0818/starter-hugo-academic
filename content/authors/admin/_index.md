@@ -1,6 +1,6 @@
 ---
 title: Guanyu Liu
-role: Graduate of Atmospheric Physics and Chemistry, Peking University
+role: Graduate of Atmospheric Physics and Chemistry
 avatar_filename: mmexport1622870311756.jpg
 bio: My research interests include interactions between aerosols and climate and
   prediction of aerosol emission.
