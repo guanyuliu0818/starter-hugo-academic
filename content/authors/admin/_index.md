@@ -6,7 +6,7 @@ bio: My research interests include interactions between aerosols and climate and
   prediction of aerosol emission.
 interests:
   - Interactions Between Aerosols and Climate
-  - Prediction of Aerosol Emission.
+  - Prediction of Aerosol Emission
 social:
   - icon: envelope
     icon_pack: fas
