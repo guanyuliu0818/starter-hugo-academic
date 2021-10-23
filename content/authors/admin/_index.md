@@ -25,6 +25,9 @@ education:
     - course: Bachelor in Atmospheric Sciences
       institution: Nanjing University
       year: 2017
+    - course: Senior high school sdudent
+      institution: Lanzhou NO.1 Senior High School
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
