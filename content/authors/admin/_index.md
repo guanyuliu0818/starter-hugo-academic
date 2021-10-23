@@ -24,7 +24,7 @@ education:
   courses:
     - course: Bachelor in Atmospheric Sciences
       institution: Nanjing University
-      year: ""
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
