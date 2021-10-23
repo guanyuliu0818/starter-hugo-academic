@@ -22,6 +22,9 @@ organizations:
     url: ""
 education:
   courses:
+    - course: Ph.D. in Atmospheric Physics and Chemistry
+      institution: Peking University
+      year: 2021
     - course: Bachelor in Atmospheric Sciences
       institution: Nanjing University
       year: 2017
